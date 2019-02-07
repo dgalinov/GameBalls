@@ -1,0 +1,14 @@
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\bin\Debug\CatchGame.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\MainWindow.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\App.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame_MarkupCompile.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame_MarkupCompile.lref
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\bin\Debug\CatchGame.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\bin\Debug\CatchGame.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\MainWindow.baml
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.g.resources
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.Properties.Resources.resources
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache

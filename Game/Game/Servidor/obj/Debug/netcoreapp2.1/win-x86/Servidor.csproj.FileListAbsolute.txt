@@ -1,0 +1,14 @@
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.exe
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.deps.json
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.runtimeconfig.json
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.runtimeconfig.dev.json
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.dll
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\bin\Debug\netcoreapp2.1\win-x86\Servidor.pdb
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.csprojAssemblyReference.cache
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.AssemblyInfoInputs.cache
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.AssemblyInfo.cs
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.dll
+C:\Users\DragomirGalinov\Desktop\GameGithub\GameBalls\Game\Game\Servidor\obj\Debug\netcoreapp2.1\win-x86\Servidor.pdb
